@@ -1,0 +1,15 @@
+[ {
+			"D_Type": "ESP32cam",
+			"D_Name": "Door Camera",
+			"D_Address": "08:3A:F2:6D:25:78"
+		},
+		{
+			"D_Type": "ESP32cam",                                                                                          
+			"D_Name": "Drive Camera",
+			"D_Address": "9C:9C:1F:C8:B3:C0"
+		},
+	    {
+			"D_Type": "ESP32",
+			"D_Name": "Central Node",
+			"D_Address": "AC:67:B2:05:03:9C"
+		}]
